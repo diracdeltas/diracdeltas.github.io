@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: diracdeltas.github.io
+Token: 4063871649ee37cac99eb9c08f526d27855d52ebeb907e2aa359f4f5dcccabb7
