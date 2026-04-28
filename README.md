@@ -19,6 +19,7 @@ hacker / ex-physicist
   audio](https://azuki.bandcamp.com/merch/max-for-live-stem-splitter-spleeter)
 * [macOS/win64 vst3 for stemming audio in real
   time](https://azuki.bandcamp.com/merch/experimental-spleeter-plugin-for-live-stem-separation)
+* [bay area childcare license violations](https://azuki.vip/childcare/)
 * [random workout generator](https://azuki.vip/random-training/)
 * [baby restaurant reviews](https://azuki.vip/blw/)
 * [rarely-updated blog](https://blog.azuki.vip)
@@ -28,11 +29,9 @@ hacker / ex-physicist
 * [single TCP-packet audio/visual experience](http://packet.city)
 * [backdooring javascript](https://blog.azuki.vip/backdooring-js/)
 * [a bot that mashes up erowid and ICO whitepapers](https://twitter.com/icowid)
-* [readable passphrase/key generator](https://diracdeltas.github.io/niceware/)
+* [readable passphrase/key generator](https://azuki.vip/niceware/)
 * [estimating the mass of unread email in my inbox](http://web.mit.edu/zyan/Public/fermi.pdf) [pdf]
 * [CVE-2016-1617](https://github.com/diracdeltas/sniffly/tree/master)
-* [insta](https://instagram.com/azukipix)
-* [wikipedia](https://en.wikipedia.org/wiki/Yan_Zhu)
 * [github](https://github.com/diracdeltas)
 * [youtube](https://www.youtube.com/@bcrypt)
 * <a rel="me" href="https://infosec.exchange/@bcrypt">Mastodon</a>
