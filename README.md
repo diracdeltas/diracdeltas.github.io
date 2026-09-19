@@ -20,6 +20,7 @@ hacker / ex-physicist
 * [macOS/win64 vst3 for stemming audio in real
   time](https://azuki.bandcamp.com/merch/experimental-spleeter-plugin-for-live-stem-separation)
 * [bay area childcare license violations](https://azuki.vip/childcare/)
+* [finding the best song ever](https://azuki.vip/bse)
 * [random workout generator](https://azuki.vip/random-training/)
 * [baby restaurant reviews](https://azuki.vip/blw/)
 * [rarely-updated blog](https://blog.azuki.vip)
